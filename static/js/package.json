@@ -9,6 +9,7 @@
   "author": "defshine",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^3.8.0",
     "react": "^0.12.2"
   },
   "devDependencies": {
